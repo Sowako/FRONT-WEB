@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none; 
+  
+  }
+
+  .photo {
+    height: 250px;
+width: 250px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+img{
+height: 70px;
+width: 70px;
+}
+
+
+
